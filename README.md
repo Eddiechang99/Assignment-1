@@ -1,10 +1,10 @@
 #Personal Portfolio (ID Assignment 1)
 
 #Introduction
-This website is created as my personal portfolio, this portfolio contains of an about section, completed projects by me section, and a contact section. I implemented these sections are because employers can learn more about me and can also view my portfolio to decide whether if they are okay with working with me. Also, a contact form for them to fill in their particulars and a message box to enter their queries for me.
+This website is created as my portfolio, this portfolio contains an about section, completed projects by me section, and a contact section. I implemented these sections are because employers can learn more about me and can also view my portfolio to decide whether if they are okay with working with me. Also, a contact form for them to fill in their particulars and a message box to enter their queries for me.
 
 #Design Process
-My inspiration for my website is that I wanted my website project a minimalistic and informative look. Keeping my information packed and layout minimal. The website that I have created is a Single Page Application website (SPA). By using this technology, it reduces the chances of my website lagging and potentially unable to display any required information. SPA also helps to increase the visual appearance of my website as I have implemented a smooth scroll behaviour code during my development phase.
+My inspiration for my website is that I wanted my website project a minimalistic and informative look. Keeping my information-packed and layout minimal. The website that I have created is a Single Page Application website (SPA). By using this technology, it reduces the chances of my website lagging and potentially unable to display any required information. SPA also helps to increase the visual appearance of my website as I have implemented a smooth scroll behaviour code during my development phase.
 For example, the user wants to scroll to a particular section, but the section is at the far bottom of the website, the user can click on the links provided in the navigation bar. Upon clicking, it will then jump to the wanted section. And as mention in the previous paragraph, the smooth scroll behaviour will provide an appealing scroll experience and also increase the visuals of the website.
 
 The following links attached are my wireframes for the website:
@@ -62,7 +62,7 @@ Mobile view: https://xd.adobe.com/view/25af39d8-aa2f-4878-9236-de791a1e815d-70fc
 The use of HTML5 is to structure the website and using CC3 to beautify it and to develop it like I inspire it to be. By using CSS3, I am also able to make into a responsive website which includes desktop view, tablet view, and mobile view. JavaScript was used to develop a hamburger menu in the mobile view and it was also used to change my navigation bar’s background colour on scroll in desktop view. JavaScript was also used to display a message upon submitting a form.
  
 #Testing:
-The user is able to perform the given tasks well confidently without any guidance. The tasks given to the user was to explore the site, check out the portfolio section, submit a form, and make use of the navigation bar to go the required section.
+The user can perform the given tasks well confidently without any guidance. The tasks given to the user was to explore the site, check out the portfolio section, submit a form, and make use of the navigation bar to go the required section.
 
 |----------------------------------------------------------------------------------|
 |Explore the site	|  Check out portfolio	|  Submit a form	 | Use navigation bar  | 
